@@ -1,3 +1,7 @@
+// Algoritmo de Backtracking com Poda Inteligente
+// Resolve o Problema das N-Damas para N >= 4
+// Abordagem otimizada com paralelismo que conta todas as soluções (contagem)
+// Trechos revisados para melhorar funcionamento e consistência
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

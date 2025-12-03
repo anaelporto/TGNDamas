@@ -1,6 +1,6 @@
 // Algoritmo de Backtracking com Poda Inteligente
-// Resolve o Problema das N-Damas para N > 4
-// Abordagem sequencial que conta todas as soluções possíveis
+// Resolve o Problema das N-Damas para N >= 4
+// Abordagem sequencial que conta todas as soluções (contagem)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
