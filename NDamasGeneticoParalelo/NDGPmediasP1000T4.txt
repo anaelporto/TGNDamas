@@ -1,0 +1,8 @@
+Média do arquivo 30: 36.4030 | Soluções encontradas: 15
+Média do arquivo 40: 97.6446 | Soluções encontradas: 23
+Média do arquivo 50: 151.9624 | Soluções encontradas: 19
+Média do arquivo 60: 241.3126 | Soluções encontradas: 21
+Média do arquivo 70: 303.3073 | Soluções encontradas: 18
+Média do arquivo 80: 362.1752 | Soluções encontradas: 18
+Média do arquivo 90: 408.4995 | Soluções encontradas: 21
+Média do arquivo 100: 501.9207 | Soluções encontradas: 18

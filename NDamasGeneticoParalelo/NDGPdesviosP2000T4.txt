@@ -1,0 +1,8 @@
+Desvio padrão do arquivo 30: 114.5474 | Soluções encontradas: 23
+Desvio padrão do arquivo 40: 126.9819 | Soluções encontradas: 27
+Desvio padrão do arquivo 50: 302.2283 | Soluções encontradas: 23
+Desvio padrão do arquivo 60: 480.2983 | Soluções encontradas: 19
+Desvio padrão do arquivo 70: 553.4656 | Soluções encontradas: 20
+Desvio padrão do arquivo 80: 811.4701 | Soluções encontradas: 19
+Desvio padrão do arquivo 90: 642.7612 | Soluções encontradas: 23
+Desvio padrão do arquivo 100: 847.9708 | Soluções encontradas: 20

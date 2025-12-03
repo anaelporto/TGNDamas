@@ -1,0 +1,8 @@
+Desvio padrão do arquivo 8: 0.5296
+Desvio padrão do arquivo 9: 0.4065
+Desvio padrão do arquivo 10: 0.6379
+Desvio padrão do arquivo 11: 5.2795
+Desvio padrão do arquivo 12: 20.5756
+Desvio padrão do arquivo 13: 287.8803
+Desvio padrão do arquivo 14: 880.9307
+Desvio padrão do arquivo 15: 916.8726
