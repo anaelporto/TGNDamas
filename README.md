@@ -1,4 +1,4 @@
-Métodos de Otimização do Problema das N-Damas
+# Métodos de Otimização do Problema das N-Damas
 Trabalho de Graduação desenvolvido pelo aluno Anael Fernando Porto para a disciplina de ES/TG - 2º Sem. 2025 - Integral e Noturno.
 
 Este projeto apresenta uma análise sobre métodos de otimização de algoritmos que resolvem o Problema das N-Damas. O projeto foi desenvolvido por meio de diferentes implementações de algoritmos na linguagem C, com parâmetros variados que visam balancear desempenho e estabilidade dos dados, sendo estes posteriormente filtrados por dois algoritmos de média simples e desvio padrão. O estudo desenvolvido contribui para uma melhor visualização do tema e fornece uma base estável para a expansão do espaço de busca e melhorias computacionais.
@@ -24,21 +24,21 @@ Os gráficos abaixo contém as respectivas médias dos tempos execução obtidos
 
 <div style="display:flex; justify-content:center; gap:20px; margin-bottom:20px;">
   <figure style="text-align:center;">
-    <img src="Imagens/Figura4.png" alt="Média Backtracking sem O3" width="400"/>
+    <img src="Imagens/Figura4.png" alt="Média Backtracking sem O3" width="300"/>
     <figcaption>Backtracking sem flag de otimização</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="Imagens/Figura5.png" alt="Média Backtracking com O3" width="400"/>
+    <img src="Imagens/Figura5.png" alt="Média Backtracking com O3" width="300"/>
     <figcaption>Backtracking com flag de otimização</figcaption>
   </figure>
 </div>
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure style="text-align:center;">
-    <img src="Imagens/Figura6.png" alt="Média Alg Genético P=1000 com O3" width="400"/>
+    <img src="Imagens/Figura6.png" alt="Média Alg Genético P=1000 com O3" width="300"/>
     <figcaption>Algoritmo Genético P=1000 com flag de otimização</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="Imagens/Figura7.png" alt="Média Alg Genético P=2000 com O3" width="400"/>
+    <img src="Imagens/Figura7.png" alt="Média Alg Genético P=2000 com O3" width="300"/>
     <figcaption>Algoritmo Genético P=2000 com flag de otimização</figcaption>
   </figure>
 </div>
