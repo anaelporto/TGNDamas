@@ -22,26 +22,17 @@ Após um estudo inicial, foram escolhidos e implementados dois algoritmos na lin
 A análise final do projeto foi estruturada a partir da comparação da média e do desvio padrão dos tempos de execução em diferentes condições de simulação, tomando como referência a contagem de soluções do backtracking e as soluções válidas encontradas pelo algoritmo genético.
 Os gráficos abaixo contém as respectivas médias dos tempos execução obtidos nas simulações:
 
-<div style="display:flex; justify-content:center; gap:20px; margin-bottom:20px;">
-  <figure style="text-align:center;">
-    <img src="Imagens/Figura4.png" alt="Média Backtracking sem O3" width="300"/>
-    <figcaption>Backtracking sem flag de otimização</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="Imagens/Figura5.png" alt="Média Backtracking com O3" width="300"/>
-    <figcaption>Backtracking com flag de otimização</figcaption>
-  </figure>
-</div>
-<div style="display:flex; justify-content:center; gap:20px;">
-  <figure style="text-align:center;">
-    <img src="Imagens/Figura6.png" alt="Média Alg Genético P=1000 com O3" width="300"/>
-    <figcaption>Algoritmo Genético P=1000 com flag de otimização</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="Imagens/Figura7.png" alt="Média Alg Genético P=2000 com O3" width="300"/>
-    <figcaption>Algoritmo Genético P=2000 com flag de otimização</figcaption>
-  </figure>
-</div>
+<table>
+    <tr>
+        <td><img src="Imagens/Figura4.png" width="300"><br>Backtracking sem flag de otimização</td>
+        <td><img src="Imagens/Figura5.png" width="300"><br>Backtracking com flag de otimização</td>
+    </tr>
+    <tr>
+        <td><img src="Imagens/Figura6.png" width="300"><br>Genético P=1000 com flag de otimização</td>
+        <td><img src="Imagens/Figura7.png" width="300"><br>Genético P=2000 com flag de otimização</td>
+  </tr>
+</table>
+
 
 Na contagem feita pelo Backtracking, a aplicação da flag de otimização (-O3) resultou em ganho médio entre 32% e 45% em relação aos tempos de execução da versão sequencial. 
 Na versão paralela, houve perda de desempenho nos valores de N = {8, 9}, causada pelo overhead de criação e sincronização das threads. A partir de N = [10, 15], observou-se um ganho médio entre 30% e 50% em comparação à implementação sequencial.
